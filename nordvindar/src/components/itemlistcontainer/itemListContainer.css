@@ -1,0 +1,17 @@
+.item_list_container {
+    font-size: 4rem;
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar_categories{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 4rem;
+}
+
+.navbar_categories li {
+    font-size: 3rem;
+    font-weight: 500;
+}

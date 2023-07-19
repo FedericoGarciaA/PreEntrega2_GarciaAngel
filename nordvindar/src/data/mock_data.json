@@ -1,0 +1,424 @@
+[
+  {
+    "id": 1,
+    "category": "armchairs",
+    "name": "Anna",
+    "description": "Con líneas suaves y minimalistas, esta silla presenta una estructura sólida y una apariencia moderna. Fabricada con materiales de alta calidad, ofrece una combinación perfecta de funcionalidad y estética escandinava. El respaldo ergonómico y el acolchado suave aseguran una experiencia de asiento confortable y acogedora. La silla Anna es ideal tanto para espacios de comedor como para áreas de descanso, aportando un toque de elegancia y simplicidad a tu hogar.",
+    "price": 27000,
+    "img": "/products/armchairs/armchairs-anna.jpg"
+  },
+
+  {
+    "id": 2,
+    "category": "armchairs",
+    "name": "Naples",
+    "description": "Diseñada con líneas limpias y una silueta elegante, esta silla combina la madera natural y tejidos de alta calidad para crear una pieza estilizada y funcional. El asiento y respaldo acolchados brindan comodidad adicional, mientras que las patas de madera maciza añaden estabilidad y un toque cálido. La silla Naples es perfecta para crear un ambiente acogedor en tu comedor o sala de estar, brindando un equilibrio entre diseño moderno y tradicional.",
+    "price": 23000,
+    "img": "/products/armchairs/armchairs-naples.jpg"
+  },
+
+  {
+    "id": 3,
+    "category": "armchairs",
+    "name": "Tub",
+    "description": "Con un diseño compacto y contemporáneo, esta silla brinda un aspecto único y atractivo. Fabricada con materiales duraderos y resistentes, la silla Tub ofrece una combinación de comodidad y estilo. Su forma ergonómica y su acolchado suave aseguran una experiencia de asiento agradable, mientras que su tamaño compacto la hace ideal para espacios más reducidos. La silla Tub es perfecta para dar un toque moderno y funcional a cualquier rincón de tu hogar.",
+    "price": 29500,
+    "img": "/products/armchairs/armchairs-tub.jpg"
+  },
+
+  {
+    "id": 4,
+    "category": "armchairs",
+    "name": "Waye",
+    "description": "La silla Waye es una elegante y contemporánea opción de estilo nórdico para tu hogar. Con una combinación de líneas curvas y rectas, esta silla ofrece un aspecto sofisticado y a la vez acogedor. La estructura de madera maciza proporciona durabilidad y estabilidad, mientras que el asiento y respaldo acolchados brindan una comodidad excepcional. La silla Waye se adapta perfectamente a una amplia variedad de espacios, desde comedores hasta áreas de descanso, aportando un toque de estilo y funcionalidad nórdica a tu decoración.",
+    "price": 32900,
+    "img": "/products/armchairs/armchairs-tub.jpg"
+  },
+
+  {
+    "id": 5,
+    "category": "beds",
+    "name": "Elliot",
+    "description": "Con líneas limpias y un diseño minimalista, esta cama combina la belleza del diseño escandinavo con la funcionalidad. Fabricada con materiales de alta calidad, presenta una estructura robusta y duradera. Su cabecero acolchado o de madera agrega un toque de comodidad y estilo, mientras que su base sólida brinda estabilidad. La cama Elliot es ideal para crear un ambiente relajante y acogedor en tu dormitorio, añadiendo un toque contemporáneo al estilo nórdico.",
+    "price": 162000,
+    "img": "/products/beds/beds-elliot.jpg"
+  },
+
+  {
+    "id": 6,
+    "category": "beds",
+    "name": "Gray",
+    "description": "Con su diseño sencillo y elegante, esta cama combina la madera natural con líneas suaves y limpias. La estructura de la cama Gray es sólida y resistente, proporcionando un soporte confiable para un descanso reparador. Su acabado en madera natural agrega un toque de calidez y serenidad a tu dormitorio, creando un ambiente acogedor y relajante.",
+    "price": 210000,
+    "img": "/products/beds/beds-gray.jpg"
+  },
+
+  {
+    "id": 7,
+    "category": "beds",
+    "name": "Kent",
+    "description": "Con un diseño moderno y práctico, esta cama destaca por su combinación de madera y cuero. La estructura de la cama Kent es resistente y duradera, brindando un soporte estable para un sueño reparador. Sus líneas limpias y su estética minimalista se adaptan perfectamente a diversos estilos de decoración. La cama Kent es ideal para aquellos que buscan un diseño contemporáneo y elegante en su dormitorio, sin comprometer la comodidad y la calidad.",
+    "price": 170000,
+    "img": "/products/beds/beds-kent.jpg"
+  },
+
+  {
+    "id": 8,
+    "category": "beds",
+    "name": "Palais",
+    "description": "Con su diseño sofisticado y detalles cuidadosamente elaborados, esta cama añade un toque de opulencia a tu dormitorio. La estructura de la cama Palais está hecha de madera maciza de alta calidad, con acabados finos y ornamentación decorativa. Su cabecero y su base sólida brindan comodidad y soporte adicional. La cama Palais es perfecta para aquellos que buscan un ambiente regio y refinado en su dormitorio, sin comprometer la esencia del estilo nórdico.",
+    "price": 141000,
+    "img": "/products/beds/beds-palais.jpg"
+  },
+
+  {
+    "id": 9,
+    "category": "beds",
+    "name": "Ricci",
+    "description": "Con su diseño único y estilizado, esta cama destaca por su combinación de líneas y detalles refinados. La estructura de la cama Ricci está fabricada con materiales duraderos y de alta calidad, brindando una base sólida para un descanso placentero. Su cabecero acolchado o de madera añade un toque de confort y estilo. La cama Ricci es ideal para aquellos que buscan una pieza de diseño distintiva que se adapte a la estética nórdica contemporánea.",
+    "price": 138000,
+    "img": "/products/beds/beds-ricci.jpg"
+  },
+
+  {
+    "id": 10,
+    "category": "bedsides",
+    "name": "Elliot",
+    "description": "La mesa de luz Elliot es una opción elegante y funcional para complementar tu dormitorio de estilo nórdico. Con líneas limpias y un diseño minimalista, esta mesa de luz combina la belleza del diseño escandinavo con la practicidad. Fabricada con materiales de alta calidad, presenta una estructura sólida y duradera. Sus amplios cajones o estantes ofrecen un espacio de almacenamiento conveniente para guardar tus objetos personales. ",
+    "price": 22500,
+    "img": "/products/bedsides/bedsides-elliot.jpg"
+  },
+
+  {
+    "id": 11,
+    "category": "bedsides",
+    "name": "Elliot Black",
+    "description": "Con su elegante acabado en negro, esta mesa de luz agrega un toque de estilo audaz a tu dormitorio. Conservando la esencia del diseño escandinavo con líneas simples y limpias, esta mesa de noche combina la funcionalidad con un aspecto llamativo. Sus cajones espaciosos ofrecen un amplio espacio de almacenamiento para tus pertenencias. La mesa de luz Elliot Black es perfecta para aquellos que buscan agregar un toque de elegancia y contraste a su dormitorio nórdico.",
+    "price": 25800,
+    "img": "/products/bedsides/bedsides-elliot-black.jpg"
+  },
+
+  {
+    "id": 12,
+    "category": "bedsides",
+    "name": "Milan",
+    "description": "La mesa de luz Milan es una opción versátil y moderna dentro del estilo nórdico. Con un diseño contemporáneo y líneas suaves, esta mesa de noche combina funcionalidad con estilo. Fabricada con materiales de calidad, presenta una estructura sólida y resistente. Sus cajones o estantes ofrecen un espacio práctico para guardar tus artículos de uso diario. La mesa de luz Milan es ideal para aquellos que buscan una solución de almacenamiento compacta y estéticamente agradable para su dormitorio.",
+    "price": 27300,
+    "img": "/products/bedsides/bedsides-milan.jpg"
+  },
+
+  {
+    "id": 13,
+    "category": "bedsides",
+    "name": "Ricci",
+    "description": "La mesa de luz Ricci es una opción elegante y sofisticada. Con su diseño distintivo y detalles cuidadosamente elaborados, esta mesa de noche agrega un toque de refinamiento a tu dormitorio. Fabricada con materiales de alta calidad, presenta una estructura sólida y duradera. Su cajon ofrece un espacio amplio para organizar tus pertenencias de forma ordenada. La mesa de luz Ricci es perfecta para aquellos que buscan agregar un elemento de lujo y estilo a su dormitorio.",
+    "price": 22600,
+    "img": "/products/bedsides/bedsides-ricci.jpg"
+  },
+
+  {
+    "id": 14,
+    "category": "bedsides",
+    "name": "Ricci 2",
+    "description": "La mesa de luz Ricci 2 es una opción contemporánea y funcional dentro del estilo nórdico. Con un diseño moderno y limpio, esta mesa de noche combina estética y practicidad. Fabricada con materiales de calidad, presenta una estructura sólida y resistente. Su cajon ofrece un espacio versátil para almacenar tus artículos esenciales cerca de la cama. La mesa de luz Ricci 2 es ideal para aquellos que buscan una solución de almacenamiento moderna y elegante que complemente su dormitorio.",
+    "price": 22600,
+    "img": "/products/bedsides/bedsides-ricci-2.jpg"
+  },
+
+  {
+    "id": 15,
+    "category": "bookcases",
+    "name": "Dallis",
+    "description": "La biblioteca Dallis es una opción elegante y funcional para organizar tus libros y objetos decorativos. Con su diseño moderno y líneas limpias, esta biblioteca combina la estética minimalista con una amplia capacidad de almacenamiento. Fabricada con materiales de alta calidad, presenta estantes ajustables que te permiten adaptar la configuración según tus necesidades. La biblioteca Dallis es ideal para crear un ambiente organizado y armonioso en tu hogar.",
+    "price": 68000,
+    "img": "/products/bookcases/bookcases-dallis.jpg"
+  },
+
+  {
+    "id": 16,
+    "category": "bookcases",
+    "name": "Luca",
+    "description": "La biblioteca Luca es una opción versátil y estilizada. Con un diseño elegante, esta estantería ofrece un espacio de almacenamiento práctico sin ocupar mucho espacio en tu hogar. Fabricada con materiales duraderos, presenta estantes abiertos y es perfecta para aquellos que buscan una solución funcional y estética para organizar sus libros y decoraciones en un espacio limitado.",
+    "price": 85700,
+    "img": "/products/bookcases/bookcases-luca.jpg"
+  },
+
+  {
+    "id": 17,
+    "category": "bookcases",
+    "name": "Mondi",
+    "description": "La biblioteca Mondi es una opción contemporánea y elegante. Con su diseño distintivo y líneas sofisticadas, esta biblioteca se destaca como una pieza de declaración en tu hogar. Fabricada con materiales de alta calidad, presenta estantes abiertos y puertas que ofrecen una combinación de exhibición y almacenamiento. Los detalles cuidadosamente elaborados y los acabados finos añaden un toque de lujo a esta pieza. La biblioteca Mondi es ideal para aquellos que buscan una estantería única y estilizada que se adapte a su contemporáneo.",
+    "price": 108900,
+    "img": "/products/bookcases/bookcases-mondi.jpg"
+  },
+
+  {
+    "id": 18,
+    "category": "bookcases",
+    "name": "Mondi 2",
+    "description": "La biblioteca Mondi 2 es una variante adicional de la elegante biblioteca Mondi. Con un diseño similar pero con características distintivas, esta estantería agrega una dimensión adicional a tu espacio. Puede presentar una configuración diferente de estantes abiertos y puertas, brindando opciones de almacenamiento versátiles. La biblioteca Mondi 2 es perfecta para aquellos que buscan una estantería única y personalizable que combine funcionalidad y estilo en su hogar",
+    "price": 110000,
+    "img": "/products/bookcases/bookcases-mondi-2.jpg"
+  },
+
+  {
+    "id": 19,
+    "category": "bookcases",
+    "name": "Oslo",
+    "description": "La biblioteca Oslo es una opción clásica y atemporal. Con su diseño sencillo y líneas limpias, esta estantería combina funcionalidad con un aspecto elegante. Fabricada con materiales de calidad, presenta estantes abiertos que ofrecen amplio espacio para exhibir tus libros y objetos decorativos. La biblioteca Oslo es ideal para aquellos que buscan una estantería versátil y de calidad que se integre sin esfuerzo en su espacio.",
+    "price": 64700,
+    "img": "/products/bookcases/bookcases-oslo.jpg"
+  },
+
+  {
+    "id": 20,
+    "category": "chairs",
+    "name": "Mier",
+    "description": "La silla de comedor Mier combina a la perfección la elegancia con una funcionalidad excepcional. Su estructura de madera clara y líneas limpias brinda un aspecto moderno y minimalista. El asiento y respaldo acolchados ofrecen comodidad durante las comidas prolongadas. Mier es la elección perfecta para aquellos que buscan una silla de comedor versátil y sofisticada.",
+    "price": 23400,
+    "img": "/products/chairs/chairs-mier.jpg"
+  },
+
+  {
+    "id": 21,
+    "category": "chairs",
+    "name": "Morris",
+    "description": "Con su diseño atemporal y su encanto escandinavo, esta silla cautiva los sentidos. Su estructura solida proporciona una base resistente y elegante, mientras que el respaldo curvado y el asiento ergonómico brindan una comodidad excepcional. Morris se destaca por su estética natural y su habilidad para adaptarse a una amplia variedad de estilos de decoración.",
+    "price": 21600,
+    "img": "/products/chairs/chairs-morris.jpg"
+  },
+
+  {
+    "id": 22,
+    "category": "chairs",
+    "name": "Pannelli",
+    "description": "La silla de comedor pannelli es una opción contemporánea que captura la esencia del estilo nórdico con su aspecto minimalista y sofisticado. Su estructura sólida brinda una base estable, mientras que el respaldo agrega un toque de elegancia y personalidad. El asiento acolchado con tapizado de alta calidad ofrece confort adicional. Pannelli es una silla que combina a la perfección la belleza estética y la funcionalidad práctica para crear un ambiente acogedor en tu comedor.",
+    "price": 22800,
+    "img": "/products/chairs/chairs-pannelli.jpg"
+  },
+
+  {
+    "id": 23,
+    "category": "chairs",
+    "name": "Slat",
+    "description": "La silla slat ofrece un equilibrio perfecto entre funcionalidad y diseño. Su estructura de madera maciza se combina con un respaldo alto y curvado para brindar un soporte óptimo a la espalda. El asiento acolchado con tela de alta calidad proporciona comodidad durante las comidas, mientras que el diseño de líneas sencillas agrega un toque moderno. Con su estética elegante y su atención al detalle, esta silla eleva el ambiente de cualquier comedor.",
+    "price": 26200,
+    "img": "/products/chairs/chairs-slat.jpg"
+  },
+
+  {
+    "id": 24,
+    "category": "coffee-tables",
+    "name": "Anna",
+    "description": "La mesa de café Anna es una elegante adición a cualquier sala de estar. Con su construcción en madera maciza, esta mesa combina belleza y durabilidad. Sus líneas limpias y su acabado en tonos cálidos le dan un aspecto acogedor y natural. La superficie espaciosa ofrece espacio para colocar tazas de café, libros o elementos decorativos, mientras que su diseño compacto la hace ideal para espacios más pequeños.",
+    "price": 16400,
+    "img": "/products/coffee-tables/coffee-tables-anna.jpg"
+  },
+
+  {
+    "id": 25,
+    "category": "coffee-tables",
+    "name": "Eden",
+    "description": "Eden es una pieza de diseño sofisticado. Fabricada completamente en madera, esta mesa destaca por su forma única y elegante que agrega un toque de encanto artesanal a la sala de estar. La madera de alta calidad utilizada en su construcción le confiere una apariencia natural y cálida. La mesa de café Eden es la elección perfecta para aquellos que buscan una mesa de café con carácter y estilo.",
+    "price": 18200,
+    "img": "/products/coffee-tables/coffee-tables-eden.jpg"
+  },
+
+  {
+    "id": 26,
+    "category": "coffee-tables",
+    "name": "Kenton",
+    "description": "La mesa de café Kenton es un ejemplo de funcionalidad y belleza en madera. Con su diseño moderno y líneas simples, se adapta a diferentes estilos de decoración. La superficie espaciosa y el estante inferior ofrecen espacio adicional para almacenamiento o exhibición. Kenton es una mesa de café versátil y práctica que se integra fácilmente en cualquier espacio.",
+    "price": 17500,
+    "img": "/products/coffee-tables/coffee-tables-kenton.jpg"
+  },
+  
+  {
+    "id": 27,
+    "category": "coffee-tables",
+    "name": "Mondi",
+    "description": "La mesa de café Mondi combina estilo y elegancia en una construcción completamente de madera. Esta mesa añade un toque de sofisticación a la sala de estar. La madera de calidad utilizada en su fabricación se presenta en tonos naturales y cálidos, creando un ambiente acogedor. La superficie amplia es perfecta para colocar bandejas de café o exhibir elementos decorativos. Mondi es una elección refinada y estilizada para tu espacio de descanso.",
+    "price": 19900,
+    "img": "/products/coffee-tables/coffee-tables-mondi.jpg"
+  },
+  
+  {
+    "id": 28,
+    "category": "coffee-tables",
+    "name": "Naples",
+    "description": "Naples es una opción elegante construida en madera maciza. Su diseño circular y líneas limpias la convierten en una pieza versátil para cualquier sala de estar. El acabado en madera natural le da un aspecto cálido y atractivo. La superficie espaciosa es ideal para servir bebidas o mostrar objetos decorativos. Naples es una mesa de café que combina belleza y funcionalidad en perfecta armonía.",
+    "price": 18800,
+    "img": "/products/coffee-tables/coffee-tables-naples.jpg"
+  },
+  
+  {
+    "id": 29,
+    "category": "coffee-tables",
+    "name": "Pannelli Slim",
+    "description": "La mesa de café Pannelli Slim destaca por su diseño delgado y estilizado, construida enteramente en madera. Su estructura rectangular y sus patas esbeltas le confieren un aspecto elegante y moderno. El acabado en madera pulida resalta su belleza natural y aporta calidez a la sala de estar. A pesar de su perfil delgado, la superficie generosa ofrece suficiente espacio para acomodar tus necesidades diarias. Pannelli Slim es la elección perfecta para aquellos que buscan una mesa de café contemporánea y minimalista.",
+    "price": 17300,
+    "img": "/products/coffee-tables/coffee-tables-pannelli-slim.jpg"
+  },
+    
+  {
+    "id": 30,
+    "category": "desktops",
+    "name": "Architect",
+    "description": "El escritorio Architect es una pieza sofisticada y funcional que combina diseño moderno y profesionalismo. Fabricado con materiales de alta calidad, este escritorio presenta una amplia superficie de trabajo en la que podrás desplegar tu creatividad y realizar tus tareas con comodidad. Sus líneas limpias y elegantes, junto con su estructura robusta, crean un ambiente de inspiración y productividad. Architect es la elección perfecta para aquellos que buscan un escritorio que se destaque tanto en estilo como en funcionalidad.",
+    "price": 65800,
+    "img": "/products/desktops/desks-architect.jpg"
+  },
+      
+  {
+    "id": 31,
+    "category": "desktops",
+    "name": "Mclaren",
+    "description": " El escritorio McLaren es una declaración de estilo y rendimiento en tu espacio de trabajo. Con su diseño contemporáneo y aerodinámico, este escritorio ofrece una combinación perfecta de elegancia y funcionalidad. Fabricado con madera de alta calidad, presenta una amplia superficie de trabajo que te permitirá organizar tus documentos y dispositivos electrónicos de manera eficiente. Sus líneas suaves y curvas aportan un toque de sofisticación a cualquier ambiente. McLaren es el escritorio ideal para aquellos que desean un espacio de trabajo que refleje su pasión por la excelencia.",
+    "price": 82300,
+    "img": "/products/desktops/desks-mclaren.jpg"
+  },
+      
+  {
+    "id": 32,
+    "category": "desktops",
+    "name": "Mondi",
+    "description": "Mondi es una mezcla de estilo y practicidad que elevará tu área de trabajo. Construido con madera duradera y elegante, este escritorio presenta un diseño minimalista con líneas simples y pulcras. Su superficie espaciosa te brinda el espacio necesario para organizar tus documentos, computadora y accesorios de oficina. Los detalles cuidadosamente seleccionados, como el acabado natural de la madera, añaden un toque de distinción. Mondi es la elección perfecta para aquellos que buscan un escritorio que ofrezca un ambiente de trabajo tranquilo y productivo.",
+    "price": 75300,
+    "img": "/products/desktops/desks-mondi.jpg"
+  },
+      
+  {
+    "id": 33,
+    "category": "desktops",
+    "name": "Riley",
+    "description": "El escritorio Riley es una combinación de elegancia y funcionalidad que te permite trabajar con estilo. Fabricado con madera resistente y acabado en tonos cálidos, este escritorio destaca por su diseño clásico y atemporal. Con una superficie de trabajo espaciosa y cajones incorporados, ofrece una solución de almacenamiento conveniente para tus necesidades de organización. Riley es el escritorio perfecto para aquellos que valoran el equilibrio entre la estética y la utilidad en su entorno laboral.",
+    "price": 72800,
+    "img": "/products/desktops/desks-riley.jpg"
+  },
+          
+  {
+    "id": 34,
+    "category": "dining-tables",
+    "name": "Fitzroy",
+    "description": "La mesa Fitzroy es una combinación perfecta de elegancia y rusticidad. Con su diseño robusto y rústico, esta mesa es una pieza llamativa en cualquier espacio. Construida con madera maciza de alta calidad, su superficie amplia proporciona espacio suficiente para reuniones familiares o cenas con amigos. Esta mesa es ideal para aquellos que buscan un elemento central en su comedor que atraiga miradas y brinde una sensación de calidez y autenticidad.",
+    "price": 52400,
+    "img": "/products/dining-tables/dining-tables-fitzroy.jpg"
+  },
+          
+  {
+    "id": 35,
+    "category": "dining-tables",
+    "name": "Luca",
+    "description": "La mesa Luca es una mesa de comedor elegante y versátil que se adapta a una variedad de estilos de decoración. Con su diseño moderno y líneas limpias, esta mesa emana sofisticación y minimalismo. Fabricada en madera de alta calidad, su acabado suave y sus bordes suavemente curvados añaden un toque de suavidad y estilo. La mesa Luca es perfecta para aquellos que buscan una pieza de mobiliario elegante y contemporánea que se convierta en el centro de atención de su comedor.",
+    "price": 56200,
+    "img": "/products/dining-tables/dining-tables-luca.jpg"
+  },
+          
+  {
+    "id": 36,
+    "category": "dining-tables",
+    "name": "mason",
+    "description": " La mesa Mason es una mesa de comedor con un toque industrial y rústico. Con su construcción en madera maciza y detalles en metal, esta mesa combina la durabilidad con el estilo. El aspecto envejecido y las marcas naturales de la madera le dan un encanto rústico y auténtico. Las patas robustas y el diseño resistente hacen que la mesa Mason sea perfecta para aquellos que buscan un elemento de comedor resistente y con carácter.",
+    "price": 55600,
+    "img": "/products/dining-tables/dining-tables-mason.jpg"
+  },
+          
+  {
+    "id": 37,
+    "category": "dining-tables",
+    "name": "Morris square",
+    "description": "La mesa Morris Square es una mesa de comedor cuadrada que combina elegancia y funcionalidad. Fabricada en madera de alta calidad, esta mesa presenta líneas limpias y una superficie espaciosa que proporciona un amplio espacio para las comidas en familia o las reuniones con amigos. Su diseño clásico y atemporal la hace adecuada para una variedad de estilos de decoración. La mesa Morris Square es una opción ideal para aquellos que buscan una mesa de comedor versátil que se adapte a espacios más compactos.",
+    "price": 49800,
+    "img": "/products/dining-tables/dining-tables-morris-square.jpg"
+  },
+          
+  {
+    "id": 38,
+    "category": "dining-tables",
+    "name": "Morris",
+    "description": "La mesa Morris es una mesa de comedor que destaca por su encanto escandinavo y su diseño simple y elegante. Fabricada en madera de alta calidad, esta mesa presenta líneas limpias y una estética minimalista que se adapta a una amplia gama de estilos de decoración. Su construcción sólida y duradera asegura una superficie estable y confiable para las comidas diarias. La mesa Morris es perfecta para aquellos que buscan una mesa de comedor clásica y atemporal.",
+    "price": 50500,
+    "img": "/products/dining-tables/dining-tables-morris.jpg"
+  },
+
+  {
+    "id": 39,
+    "category": "dining-tables",
+    "name": "Nord",
+    "description": "La mesa Nord es una mesa de comedor que encarna la esencia del estilo nórdico. Con su diseño minimalista y su construcción en madera, esta mesa irradia elegancia y simplicidad. Su superficie espaciosa permite acomodar cómodamente a varias personas durante las comidas. La mesa Nord es ideal para aquellos que buscan una pieza de mobiliario que combine estilo y funcionalidad, y que complemente perfectamente una decoración escandinava.",
+    "price": 53100,
+    "img": "/products/dining-tables/dining-tables-nord.jpg"
+  },
+
+  {
+    "id": 40,
+    "category": "sofas",
+    "name": "Anna",
+    "description": "El juego de living Anna es elegante y acogedor, brinda comodidad y estilo a cualquier espacio de living. Con su diseño clásico y líneas suaves, se adapta a una amplia variedad de estilos de decoración. Tapizado en cuero de alta calidad, ofrece un asiento mullido y respaldo ergonómico para una máxima comodidad. Es ideal para aquellos que buscan un asiento versátil y elegante",
+    "price": 153000,
+    "img": "/products/sofas/sofas-anna.jpg"
+  },
+  
+  {
+    "id": 41,
+    "category": "sofas",
+    "name": "Capri",
+    "description": "El sofá Capri es un sofá de dos cuerpos que combina estilo y comodidad. Con su diseño contemporáneo y líneas limpias, este sofá agrega un toque moderno a cualquier living. Tapizado en cuero de calidad premium, ofrece asientos espaciosos y cojines acolchados para un máximo confort. El sofá Capri es perfecto para aquellos que desean un espacio de descanso acogedor para disfrutar de momentos de relajación.",
+    "price": 142000,
+    "img": "/products/sofas/sofas-capri.jpg"
+  },
+  
+  {
+    "id": 42,
+    "category": "sofas",
+    "name": "Leabrook",
+    "description": "El sofá Leabrook es un sofá esquinero que proporciona un ambiente cálido y acogedor en cualquier living. Con su diseño amplio y generoso, este sofá ofrece asientos espaciosos para que familiares y amigos se reúnan y disfruten de momentos especiales juntos. Su tapizado de alta calidad y cojines mullidos brindan comodidad y soporte. Leabrook es la elección perfecta para aquellos que buscan un sofá esquinero elegante y funcional para su espacio de estar.",
+    "price": 179000,
+    "img": "/products/sofas/sofas-leabrook.jpg"
+  },
+  
+  {
+    "id": 43,
+    "category": "sofas",
+    "name": "Marwood",
+    "description": "Leabrook es un sofá esquinero que proporciona un ambiente cálido y acogedor en cualquier living. Con su diseño amplio y generoso, este sofá ofrece asientos espaciosos para que familiares y amigos se reúnan y disfruten de momentos especiales juntos. Su tapizado de alta calidad y cojines mullidos brindan comodidad y soporte. El sofá Leabrook es la elección perfecta para aquellos que buscan un sofá esquinero elegante y funcional para su espacio de estar.",
+    "price": 230000,
+    "img": "/products/sofas/sofas-marwood.jpg"
+  },
+  
+  {
+    "id": 44,
+    "category": "sofas",
+    "name": "Meadon",
+    "description": "Meadon es un conjunto de living que combina dos sillones de un cuerpo y un sofá de dos cuerpos. Con su diseño clásico y elegante, este conjunto brinda un ambiente acogedor y sofisticado a cualquier espacio de estar. Tapizado en una tela suave y duradera, ofrece asientos cómodos y respaldos ergonómicos para un máximo confort. El conjunto Meadon es ideal para aquellos que desean un conjunto de living coordinado y equilibrado.",
+    "price": 138000,
+    "img": "/products/sofas/sofas-meadon.jpg"
+  },
+  
+  {
+    "id": 45,
+    "category": "sofas",
+    "name": "Naples",
+    "description": "Naples es un conjunto de living que incluye un sillon de un cuerpo y un sofá de dos cuerpos. Con su diseño contemporáneo y elegante, este conjunto aporta estilo y comodidad a tu espacio de estar. Tapizado en una tela de alta calidad, ofrece asientos acogedores y respaldos mullidos para un máximo confort. Naples es perfecto para aquellos que buscan un conjunto de living versátil y sofisticado",
+    "price": 148000,
+    "img": "/products/sofas/sofas-naples.jpg"
+  },
+  
+  {
+    "id": 46,
+    "category": "sofas",
+    "name": "Wallace",
+    "description": "El sofá Wallace es un sofá esquinero que ofrece una combinación perfecta de estilo y funcionalidad. Con su diseño moderno y líneas limpias, este sofá esquinero se convierte en el centro de atención de cualquier living. Tapizado en una tela suave y resistente, ofrece asientos amplios y cómodos para relajarse. El sofá Wallace es ideal para aquellos que buscan un sofá esquinero contemporáneo y elegant",
+    "price": 189000,
+    "img": "/products/sofas/sofas-wallace.jpg"
+  },
+  
+  {
+    "id": 47,
+    "category": "sofas",
+    "name": "Waye",
+    "description": "El sofá Waye es un sofá de dos cuerpos que brinda comodidad y estilo a tu living. Con su diseño clásico y atemporal, este sofá agrega un toque de elegancia a cualquier espacio. Tapizado en una tela de alta calidad, ofrece asientos espaciosos y cojines acolchados para un máximo confort. El sofá Waye es perfecto para aquellos que buscan un sofá de dos cuerpos versátil y sofisticado.",
+    "price": 167000,
+    "img": "/products/sofas/sofas-waye.jpg"
+  }
+]
