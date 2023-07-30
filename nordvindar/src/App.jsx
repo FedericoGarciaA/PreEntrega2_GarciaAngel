@@ -5,11 +5,12 @@ import './components/Header/Header.css'
 import './App.css'
 import { Header } from './components/header/Header'
 import { ItemListContainer } from './components/itemlistcontainer/ItemListContainer'
+import { ItemDetailContainer } from './components/itemDetailContainer/ItemDetailContainer'
 import { LandingPage } from './components/landingPage/LandingPage'
 import { AboutUs } from './components/aboutUs/AboutUs'
 import { ContactUs } from './components/contactUs/ContactUs'
 import { CartContainer } from './components/cartContainer/CartContainer'
-import { ItemDetailContainer } from './components/itemDetailContainer/ItemDetailContainer'
+// import { ItemDetailContainer } from './components/itemDetailContainer/ItemDetailContainer'
 function App() {
 
   return (
@@ -23,7 +24,7 @@ function App() {
     <Route path="/nosotros" element={<AboutUs />} />
     <Route path="/contacto" element={<ContactUs />} />
     <Route path="/carrito" element={<CartContainer />} />
-    {/* <Route path="/productos/:id" element={<ItemDetailContainer product={product} />} /> */}
+    <Route path="/producto/:id" element={<ItemDetailContainer />} />
   </Routes>
 </BrowserRouter>
 

@@ -3,7 +3,6 @@ import mock_data from "../data/mock_data.json"
 export const dataLoader = () => {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            console.log(mock_data)
             resolve(mock_data)
         }, 1000);
     })
